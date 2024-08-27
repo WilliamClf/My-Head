@@ -1,5 +1,4 @@
-# salsicha-spinning
-
+# salsicha
 
 
 ![](salsicha-gif.gif)
